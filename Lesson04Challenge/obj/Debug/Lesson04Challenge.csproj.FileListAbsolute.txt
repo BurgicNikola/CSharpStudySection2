@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson04Challenge\bin\Debug\Lesson04Challenge.exe.config
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson04Challenge\bin\Debug\Lesson04Challenge.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson04Challenge\bin\Debug\Lesson04Challenge.pdb
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson04Challenge\obj\Debug\Lesson04Challenge.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson04Challenge\obj\Debug\Lesson04Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson04Challenge\obj\Debug\Lesson04Challenge.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson04Challenge\obj\Debug\Lesson04Challenge.pdb
