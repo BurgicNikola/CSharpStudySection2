@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson01IntroToMethods\bin\Debug\Lesson01IntroToMethods.exe.config
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson01IntroToMethods\bin\Debug\Lesson01IntroToMethods.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson01IntroToMethods\bin\Debug\Lesson01IntroToMethods.pdb
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson01IntroToMethods\obj\Debug\Lesson01IntroToMethods.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson01IntroToMethods\obj\Debug\Lesson01IntroToMethods.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson01IntroToMethods\obj\Debug\Lesson01IntroToMethods.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson01IntroToMethods\obj\Debug\Lesson01IntroToMethods.pdb
