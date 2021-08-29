@@ -1,0 +1,6 @@
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson05UserInput\bin\Debug\Lesson05UserInput.exe.config
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson05UserInput\bin\Debug\Lesson05UserInput.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson05UserInput\bin\Debug\Lesson05UserInput.pdb
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson05UserInput\obj\Debug\Lesson05UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson05UserInput\obj\Debug\Lesson05UserInput.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson05UserInput\obj\Debug\Lesson05UserInput.pdb
