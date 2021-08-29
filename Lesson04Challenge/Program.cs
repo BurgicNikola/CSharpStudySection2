@@ -13,7 +13,7 @@ namespace Lesson04Challenge
     {
         static void Main(string[] args)
         {
-            string friend1 = "Frank", ;
+            string friend1 = "Frank";
             string friend2 = "Steve";
             string friend3 = "Tom";
 
