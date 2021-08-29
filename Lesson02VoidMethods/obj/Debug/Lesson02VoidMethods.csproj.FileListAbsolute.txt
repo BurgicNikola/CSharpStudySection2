@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson02VoidMethods\bin\Debug\Lesson02VoidMethods.exe.config
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson02VoidMethods\bin\Debug\Lesson02VoidMethods.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson02VoidMethods\bin\Debug\Lesson02VoidMethods.pdb
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson02VoidMethods\obj\Debug\Lesson02VoidMethods.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson02VoidMethods\obj\Debug\Lesson02VoidMethods.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson02VoidMethods\obj\Debug\Lesson02VoidMethods.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson02VoidMethods\obj\Debug\Lesson02VoidMethods.pdb
