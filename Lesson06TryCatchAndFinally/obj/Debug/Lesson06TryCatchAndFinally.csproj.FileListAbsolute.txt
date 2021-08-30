@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson06TryCatchAndFinally\bin\Debug\Lesson06TryCatchAndFinally.exe.config
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson06TryCatchAndFinally\bin\Debug\Lesson06TryCatchAndFinally.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson06TryCatchAndFinally\bin\Debug\Lesson06TryCatchAndFinally.pdb
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson06TryCatchAndFinally\obj\Debug\Lesson06TryCatchAndFinally.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson06TryCatchAndFinally\obj\Debug\Lesson06TryCatchAndFinally.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson06TryCatchAndFinally\obj\Debug\Lesson06TryCatchAndFinally.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson06TryCatchAndFinally\obj\Debug\Lesson06TryCatchAndFinally.pdb
