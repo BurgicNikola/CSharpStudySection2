@@ -1,0 +1,7 @@
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson07Operators\bin\Debug\Lesson07Operators.exe.config
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson07Operators\bin\Debug\Lesson07Operators.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson07Operators\bin\Debug\Lesson07Operators.pdb
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson07Operators\obj\Debug\Lesson07Operators.csprojAssemblyReference.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson07Operators\obj\Debug\Lesson07Operators.csproj.CoreCompileInputs.cache
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson07Operators\obj\Debug\Lesson07Operators.exe
+C:\Users\Burgic\source\repos\CSharpStudySection2\Lesson07Operators\obj\Debug\Lesson07Operators.pdb
