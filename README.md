@@ -1,3 +1,5 @@
 # C# study Section 2
-In this repo, I am following the same course, just another section.  
-The name of this section is: "Functions/ Methods And How To Save Time"
+Course name: Complete C# Masterclass  
+Course link: https://www.udemy.com/course/complete-csharp-masterclass/  
+Author: Denis Panjuta  
+Section: "Functions/ methods and how to save time"  
